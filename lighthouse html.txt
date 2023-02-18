@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <link rel="stylesheet" href="lighthouse.css">
+    <title>
+        LightHouse Island Bistro
+    </title>
+    <body>
+        <div id="wrapper">
+       
+        <header><h1> LightHouse Island Bistro</h1></header>
+        <main>
+            <nav>
+                <b>
+                    <a href="index.html"> Home &nbsp </a> 
+                     <a href="menu.html">Menu &nbsp </a>
+                     <a href="Directions.html"> Directions &nbsp </a> 
+                     <a href="Contact.html"> Contact &nbsp </a> 
+                     </b>
+            </nav>
+            <dl>
+                <strong><h2>Locally Roasted Free Trade Coffee</h2></strong>
+                <dd>Induldge in the aroma of freshly ground roast coffee <br>Specially drinks are available hot or cold</dd>
+                <strong><h2>Speciality Pastries</h2></strong>
+                <dd>Enjoy a selection of our fresh baked and organic products <br>including fresh fruit muffins,scalrities.cross nuts and cinnamon rolls</dd>
+                <strong><h2>Lunch Time in Anytime</h2></strong>
+                <dd>Savor delicious wraps and sandwiches on hearty <br>whole grain breads with locally grown</dd>
+                <strong><h2>Panoramic View</h2></strong>
+                <dd>Take some scenery! The two of our lighthouse offers and <br>penaromic views countryside challenges your friends to climb</dd>
+            </dl>
+
+        </main>
+        <footer><h5>copyright@143</h5></footer>
+    </div>
+    </body>
+</html>
